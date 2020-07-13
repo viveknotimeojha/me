@@ -56,6 +56,11 @@ h3{
   left: 250px;
   bottom: 300px;
 }
+.mountain{
+  max-width: 100%;
+  margin: auto;
+  height: auto;
+}
 
 .middle_container{
   margin: 75px 0;
